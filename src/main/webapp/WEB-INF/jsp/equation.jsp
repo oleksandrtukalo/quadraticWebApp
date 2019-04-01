@@ -24,7 +24,7 @@
     </tr>
     <tr>
       <td colspan="2">
-        <input type="submit" value="Submit"/>
+        <input type="submit" value="Рассчитать"/>
       </td>
     </tr>
   </table>
